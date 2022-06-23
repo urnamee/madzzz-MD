@@ -1,6 +1,6 @@
 let handler = async m => m.reply(`
 ╭─「 Donasi • GOPAY 」
-│ •  [081395374557]
+│ •  [085795005004]
 │ SEIKHLASNYA YA KAK
 ╰────
 `.trim()) // Tambah sendiri kalo mau
